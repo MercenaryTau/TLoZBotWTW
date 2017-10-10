@@ -1,0 +1,7 @@
+[Definition]
+
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+
+name = "(48:9)-Optional-989d0f4a86424baa- + temperature gauge animations - stamina redundancy; squish/offs stamina"
+
+version = 2

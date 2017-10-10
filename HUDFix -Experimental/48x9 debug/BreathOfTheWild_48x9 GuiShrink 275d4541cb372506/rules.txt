@@ -1,0 +1,7 @@
+[Definition]
+
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+
+name = "(48:9)-275d4541cb372506- + partial temperature gauge flashing on hud, equip"
+
+version = 2

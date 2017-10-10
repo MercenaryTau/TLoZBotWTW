@@ -1,0 +1,7 @@
+[Definition]
+
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+
+name = "(48:9)-Optional-aa9b23424e08a325- + hero's path, pixelated - redundancy; squishes path"
+
+version = 2

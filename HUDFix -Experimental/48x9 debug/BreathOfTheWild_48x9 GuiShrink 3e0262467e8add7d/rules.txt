@@ -1,0 +1,7 @@
+[Definition]
+
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+
+name = "(48:9)-3e0262467e8add7d- + syncs place location name on map"
+
+version = 2

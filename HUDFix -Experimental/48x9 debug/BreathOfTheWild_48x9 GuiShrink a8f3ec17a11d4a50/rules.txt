@@ -1,0 +1,7 @@
+[Definition]
+
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+
+name = "(48:9)-a8f3ec17a11d4a50- + menu text, loading text, right hud elements"
+
+version = 2

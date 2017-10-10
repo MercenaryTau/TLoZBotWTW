@@ -1,0 +1,7 @@
+[Definition]
+
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+
+name = "(48:9)-2d0ed5b8778b1709- + last inv page effects; spirit orb and champion auras; blue, yellow, red flame"
+
+version = 2

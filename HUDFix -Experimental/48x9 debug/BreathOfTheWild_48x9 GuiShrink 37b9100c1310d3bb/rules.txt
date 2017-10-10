@@ -1,0 +1,7 @@
+[Definition]
+
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+
+name = "(48:9)-37b9100c1310d3bb- + start screen portrait effects, location effects, hud backgrounds, menu item boards"
+
+version = 2

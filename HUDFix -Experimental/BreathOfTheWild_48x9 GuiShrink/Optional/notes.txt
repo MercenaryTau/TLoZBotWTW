@@ -1,0 +1,87 @@
+Optional 
+
+989d0f4a86424baa_0000000000000000_vs
++ temperature gauge animations
+- stamina redundancy; squishes/offsets stamina readout
+
+5d4a742e7ec8e988_0000000000000000_vs
++ fixes camera and compedium icons, brings link into 16:9 space
+- sheika map redundancy; squishes map
+
+3e802d1f454445c1_0000000000000000_vs
++ stealth meter, temp
+- removes mini map
+
+aa9b23424e08a325_0000000000000000_vs
++ hero's 'path', pixelated
+- redundancy; squishes path
+
+
+
+Included
+
+f56fcbd319ceba00_0000000000000000_vs
++ hud effects (ability, temp)
+- 
+
+f7ba548c1fefe24a_0000000000000000_vs
++ loading ZELDA, menu outline effects
+- 
+
+b88c6020a8b17332_0000000000000000_vs 
++ start screen, loading hud, left side of hud, menu outline effects, map
+- 
+
+75faf095372864b1_0000000000000000_vs
++ background effect on hearts
+- 
+
+37b9100c1310d3bb_0000000000000000_vs
++ start screen portrait effects, location effects, hud backgrounds, menu item boards
+- 
+
+a8f3ec17a11d4a50_0000000000000000_vs
++ menu text, loading text, right hud elements
+- 
+
+972b9a4b8eba288f_0000000000000000_vs
++ txt; start menu,  some loading,  location, +size menu, button icons
+- 
+
+
+3e0262467e8add7d_0000000000000000_vs
++ syncs place location name on map
+- 
+
+2d0ed5b8778b1709_0000000000000000_vs
++ last inv page effects; spirit orb and champion auras; blue, yellow, red flame
+- 
+
+0676996820618bc3_0000000000000000_vs
++ inv pages -empty space bckgrnd
+- 
+
+707388868350e2f2_0000000000000000_vs
++ last inv page effects; spirit orb and champaion aura background
+- 
+
+0b2ca00a882b9629_0000000000000000_vs
++ last inv page effects; champion aura revali's gale
+- 
+
+4d58e6f0906ff5cf_0000000000000000_vs
++ partial hearts
+- 
+
+ce35864a250944be_0000000000000000_vs
++ hero's 'path', clear
+- 
+
+275d4541cb372506_0000000000000000_vs
++ partial temperature gauge flashing on hud, equip
+-
+
+23d05bfa00d43eae_0000000000000000_vs
++ partial temperature gauge flashing on hud, equip. map item selection halo
+-
+

@@ -1,0 +1,7 @@
+[Definition]
+
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+
+name = "(48:9)-0b2ca00a882b9629- + last inv page effects; champion aura revali's gale"
+
+version = 2

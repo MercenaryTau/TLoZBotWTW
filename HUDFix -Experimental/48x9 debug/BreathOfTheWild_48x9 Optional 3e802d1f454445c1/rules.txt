@@ -1,0 +1,7 @@
+[Definition]
+
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+
+name = "(48:9)-Optional-3e802d1f454445c1- + stealth meter, temp - removes mini map"
+
+version = 2

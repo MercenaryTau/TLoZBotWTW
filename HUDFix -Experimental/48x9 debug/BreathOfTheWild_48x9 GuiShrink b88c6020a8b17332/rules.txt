@@ -1,0 +1,7 @@
+[Definition]
+
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+
+name = "(48:9)-b88c6020a8b17332- + start screen, loading hud, left side of hud, menu outline effects, map"
+
+version = 2
